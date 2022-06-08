@@ -8,6 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@material-tailwind/react": "^1.0.3",
+    "@mdi/js": "^6.7.96",
+    "@mdi/react": "^1.6.0",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "react": "^18.0.0",
